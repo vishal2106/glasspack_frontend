@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="rest_framework_simplejwt.tokens.Token.*" />
+          <option value="zap.backend.models.Category.*" />
+          <option value="zap.backend.models.AvailableProduct.*" />
+          <option value="zap.backend.models.CartItem.*" />
+          <option value="zap.backend.models.Cart.*" />
+          <option value="zap.backend.models.Order.*" />
+          <option value="backend.models.Cart.*" />
+          <option value="backend.models.AvailableProduct.*" />
+          <option value="backend.models.Order.*" />
+          <option value="backend.models.PaymentConfig.*" />
+          <option value="backend.models.CategoryProduct.*" />
+          <option value="backend.models.Category.*" />
+          <option value="backend.models.Payment.*" />
+          <option value="backend.models.Address.*" />
+          <option value="backend.models.Product.*" />
+          <option value="backend.models.WalletAmount.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
