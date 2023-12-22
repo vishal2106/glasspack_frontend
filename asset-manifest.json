@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glasspack/static/css/main.322ba101.css",
+    "main.js": "/glasspack/static/js/main.04dd5481.js",
+    "index.html": "/glasspack/index.html",
+    "main.322ba101.css.map": "/glasspack/static/css/main.322ba101.css.map",
+    "main.04dd5481.js.map": "/glasspack/static/js/main.04dd5481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322ba101.css",
+    "static/js/main.04dd5481.js"
+  ]
+}
